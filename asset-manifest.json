@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IfiokUdofeData/task-tracker/static/css/main.4c567228.css",
+    "main.js": "/IfiokUdofeData/task-tracker/static/js/main.3270b5eb.js",
+    "index.html": "/IfiokUdofeData/task-tracker/index.html",
+    "main.4c567228.css.map": "/IfiokUdofeData/task-tracker/static/css/main.4c567228.css.map",
+    "main.3270b5eb.js.map": "/IfiokUdofeData/task-tracker/static/js/main.3270b5eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c567228.css",
+    "static/js/main.3270b5eb.js"
+  ]
+}
